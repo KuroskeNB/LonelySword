@@ -3,4 +3,6 @@ LonelySword is a 3D rogue-like RPG game with mob waves, for each wave you defeat
 ## Programming details
 * Enemy waves are customized using Data Tables for easy access and fast changes implementation. 
 * AI of the enemies implemented trough Controller and AI Perceptions as Visibility and Prediction.
-* 
+## Video link
+[![Видео на YouTube](https://img.youtube.com/vi/lD8hRk1YPq4&t/0.jpg)](https://www.youtube.com/watch?v=lD8hRk1YPq4&t)
+ 
